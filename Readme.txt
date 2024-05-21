@@ -1,13 +1,3 @@
-# Báo cáo cuối kì môn Kiểm thử phần mềm tự động
-## About the project
-- Thực hiện viên tìm hiểu chức năng của trang web thương mại điện tử Automation Test Store, tiến hành phân tích trường hợp sử dụng (use cases), viết trường hợp kiểm thử (test cases) và triển khai kiểm thử tự động với Robot Framework – Selenium.
-## Danh sách thành viên
-- Nguyễn Thị Hồng Gấm - 52100018
-- Phùng Thị Thủy Tiên - 52100846
-- Nguyễn Ngọc Hương Giang -  52100019
-## Running the Application
-### Những công cụ cần có: 
-- RIDE (hoặc Visual Studio Code)
 ## Project Setup
 ### Python
 - Go to python official site and download the latest version or the prior version of python as per your operating system. Remember to set PATH correctly to use Python after installation.
